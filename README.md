@@ -27,7 +27,7 @@ and so on....
 ## Installation
 1. Clone the repository:
    ```bash
- 
+ https://github.com/denishuronw21/StaffZen.git
    ```
 2. Navigate to the project directory:
    ```bash
