@@ -27,7 +27,7 @@ and so on....
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kstubhieeee/StaffZen
+   git clone https://github.com/denishuronw21/StaffZen
    ```
 2. Navigate to the project directory:
    ```bash
